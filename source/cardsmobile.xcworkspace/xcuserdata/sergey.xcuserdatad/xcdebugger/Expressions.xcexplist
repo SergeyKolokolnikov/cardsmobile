@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SQLite.Database._execute(_:statement:arguments:):SQLite+Database.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "row(for: statement)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RecognizeTextService.addTextFrom(url:):RecognizeTextService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "recognizedText.string">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ImageCacheService.setImage(_:key:):ImageCacheService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fullPath.absoluteString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static ImageCacheService.setup():ImageCacheService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imagesPath.absoluteString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

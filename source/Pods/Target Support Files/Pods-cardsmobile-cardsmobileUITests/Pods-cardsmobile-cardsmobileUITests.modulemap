@@ -1,0 +1,6 @@
+framework module Pods_cardsmobile_cardsmobileUITests {
+  umbrella header "Pods-cardsmobile-cardsmobileUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
