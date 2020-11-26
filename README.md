@@ -14,5 +14,5 @@
 
 
 ## 
-<img src="assets/screen1.gif" width="125" height="240"/>
-<img src="assets/screen2.gif" width="125" height="240"/>
+<img src="assets/screen1.gif" width="180" height="320"/> <img src="assets/screen2.gif" width="180" height="320"/>
+
